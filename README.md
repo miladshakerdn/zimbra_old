@@ -2,7 +2,7 @@
 
 # generate poc.tar
 ```
-$ chmod +x cpio_pocgen.py
+$ chmod +x zimbra_cpio_pocgen.py
 $ ./cpio_pocgen.py
 ```
 
